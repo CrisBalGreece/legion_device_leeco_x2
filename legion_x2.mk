@@ -46,7 +46,7 @@ PRODUCT_GMS_CLIENTID_BASE := android-leeco
 
 PRODUCT_BUILD_PROP_OVERRIDES += \
     TARGET_DEVICE=le_x2 \
-    PRODUCT_NAME=LeMax2_WW
-    #PRIVATE_BUILD_DESC="google-user 11 RQ3A.211001.001 7641976 release-keys"
+    PRODUCT_NAME=LeMax2_WW \
+    PRIVATE_BUILD_DESC="google-user 11 RQ3A.211001.001 7641976 release-keys"
 
-#BUILD_FINGERPRINT := google/redfin/redfin:11/RQ3A.211001.001/7641976:user/release-keys
+BUILD_FINGERPRINT := google/redfin/redfin:11/RQ3A.211001.001/7641976:user/release-keys
